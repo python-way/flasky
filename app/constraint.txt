@@ -1,0 +1,1 @@
+If a member's trainer is fired or set to NULL, member's workout_plan must be NULL.
